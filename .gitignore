@@ -1,6 +1,9 @@
-/build/
+*/build/
 dist/
 nbproject/private/
 nbproject/configurations.xml
 *.log
 tmp/
+*.class
+*.zip
+Lab0310/build/classes/lab0310/Lab0310.class
