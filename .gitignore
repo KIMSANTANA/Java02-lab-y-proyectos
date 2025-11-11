@@ -1,4 +1,4 @@
-*/build/
+build/
 dist/
 nbproject/private/
 nbproject/configurations.xml
@@ -6,4 +6,4 @@ nbproject/configurations.xml
 tmp/
 *.class
 *.zip
-Lab0310/build/classes/lab0310/Lab0310.class
+Lab0310/build/classes/*
